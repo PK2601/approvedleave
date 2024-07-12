@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "key": "1",
+      "id": 1,
+      "employeeid": 1,
+      "leavetypeid": 101,
+      "startdate": "2024-07-01",
+      "enddate": "2024-07-05"
+    },
+    {
+      "key": "2",
+      "id": 2,
+      "employeeid": 2,
+      "leavetypeid": 102,
+      "startdate": "2024-07-10",
+      "enddate": "2024-07-15"
+    },
+    {
+      "key": "3",
+      "id": 3,
+      "employeeid": 3,
+      "leavetypeid": 103,
+      "startdate": "2024-08-01",
+      "enddate": "2024-08-05"
+    },
+    {
+      "key": "4",
+      "id": 4,
+      "employeeid": 4,
+      "leavetypeid": 104,
+      "startdate": "2024-09-01",
+      "enddate": "2024-09-10"
+    },
+    {
+      "key": "5",
+      "id": 5,
+      "employeeid": 5,
+      "leavetypeid": 105,
+      "startdate": "2024-10-01",
+      "enddate": "2024-10-05"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
